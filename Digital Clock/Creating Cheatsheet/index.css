@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 56px;
+}
+
+.content{
+    font-family: 'Potta One', cursive;
+}
+
+.container{
+    /* background-color: red; */
+    width: 60vw;
+    margin: auto;
+    padding: 32px 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+
+}
+
+.logo img{
+    width: 32px;
+    border: 2px solid white;
+    border-radius: 20%;
+    margin: 0 12px;
+    padding: 5px;
+    background-color: white;
+}
